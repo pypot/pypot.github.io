@@ -1,0 +1,70 @@
+Traceback (most recent call last):
+  File "api.py", line 9, in <module>
+    import v1
+  File "/var/develop/dssvn/trunk/intelligentservice/zhaji_dev/bin/v1/__init__.py", line 1, in <module>
+    from base import *
+  File "/var/develop/dssvn/trunk/intelligentservice/zhaji_dev/bin/v1/base/__init__.py", line 2, in <module>
+    from web_frame import *
+  File "/var/develop/dssvn/trunk/intelligentservice/zhaji_dev/bin/v1/base/web_frame.py", line 8, in <module>
+    from common_def import *
+ImportError: No module named common_def
+Traceback (most recent call last):
+  File "api.py", line 9, in <module>
+    import v1
+  File "/var/develop/dssvn/trunk/intelligentservice/zhaji_dev/bin/v1/__init__.py", line 1, in <module>
+    from base import *
+  File "/var/develop/dssvn/trunk/intelligentservice/zhaji_dev/bin/v1/base/__init__.py", line 2, in <module>
+    from web_frame import *
+  File "/var/develop/dssvn/trunk/intelligentservice/zhaji_dev/bin/v1/base/web_frame.py", line 8, in <module>
+    from common_def import *
+ImportError: No module named common_def
+Traceback (most recent call last):
+  File "api.py", line 9, in <module>
+    import v1
+  File "/var/develop/dssvn/trunk/intelligentservice/zhaji_dev/bin/v1/__init__.py", line 1, in <module>
+    from base import *
+  File "/var/develop/dssvn/trunk/intelligentservice/zhaji_dev/bin/v1/base/__init__.py", line 2, in <module>
+    from web_frame import *
+  File "/var/develop/dssvn/trunk/intelligentservice/zhaji_dev/bin/v1/base/web_frame.py", line 8, in <module>
+    from common_def import *
+ImportError: No module named common_def
+Traceback (most recent call last):
+  File "api.py", line 9, in <module>
+    import v1
+  File "/var/develop/dssvn/trunk/intelligentservice/zhaji_dev/bin/v1/__init__.py", line 1, in <module>
+    from base import *
+  File "/var/develop/dssvn/trunk/intelligentservice/zhaji_dev/bin/v1/base/__init__.py", line 2, in <module>
+    from web_frame import *
+  File "/var/develop/dssvn/trunk/intelligentservice/zhaji_dev/bin/v1/base/web_frame.py", line 8, in <module>
+    from common_def import *
+ImportError: No module named common_def
+Traceback (most recent call last):
+  File "api.py", line 9, in <module>
+    import v1
+  File "/var/develop/dssvn/trunk/intelligentservice/zhaji_dev/bin/v1/__init__.py", line 2, in <module>
+    from app import *
+  File "/var/develop/dssvn/trunk/intelligentservice/zhaji_dev/bin/v1/app/__init__.py", line 1, in <module>
+    from schedule import *
+  File "/var/develop/dssvn/trunk/intelligentservice/zhaji_dev/bin/v1/app/schedule.py", line 9, in <module>
+    from common_def import *
+ImportError: No module named common_def
+Traceback (most recent call last):
+  File "api.py", line 9, in <module>
+    import v1
+  File "/var/develop/dssvn/trunk/intelligentservice/zhaji_dev/bin/v1/__init__.py", line 2, in <module>
+    from app import *
+  File "/var/develop/dssvn/trunk/intelligentservice/zhaji_dev/bin/v1/app/__init__.py", line 1, in <module>
+    from schedule import *
+  File "/var/develop/dssvn/trunk/intelligentservice/zhaji_dev/bin/v1/app/schedule.py", line 9, in <module>
+    from common_def import *
+ImportError: No module named common_def
+Traceback (most recent call last):
+  File "api.py", line 9, in <module>
+    import v1
+  File "/var/develop/dssvn/trunk/intelligentservice/zhaji_dev/bin/v1/__init__.py", line 2, in <module>
+    from app import *
+  File "/var/develop/dssvn/trunk/intelligentservice/zhaji_dev/bin/v1/app/__init__.py", line 1, in <module>
+    from schedule import *
+  File "/var/develop/dssvn/trunk/intelligentservice/zhaji_dev/bin/v1/app/schedule.py", line 9, in <module>
+    from common_def import *
+ImportError: No module named common_def
